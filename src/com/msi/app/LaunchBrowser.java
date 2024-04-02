@@ -23,7 +23,6 @@ public class LaunchBrowser {
 		
 		WebDriver driver = new SafariDriver();
 		driver.manage().window().maximize();
-		
 		driver.get("https://www.google.co.in/");
 		
 	}
