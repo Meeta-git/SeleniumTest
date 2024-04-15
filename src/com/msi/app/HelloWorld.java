@@ -9,7 +9,7 @@ public class HelloWorld {
 
 		 LaunchBrowser lb = new LaunchBrowser();
 		 lb.openCrome();
-		 System.out.println("Lanunching browser");
+		 System.out.println("Lanunching new browser");
 		
 		
 		
